@@ -22,6 +22,16 @@
 * Location: CB11.05.400 (iHub)
 * Time: 6-8pm, 13th Mar 2024
 
+### Beginners' Git
+
+* Location: CB11.05.400 (iHub)
+* Time: 6-8pm, 13th Mar 2024
+
+### Beginners' C++
+
+* Location: CB11.05.400 (iHub)
+* Time: 6-8pm, 13th Mar 2024
+
 ### ProgComp
 
 * Time: Winter Holidays
